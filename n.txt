@@ -1,5 +1,6 @@
 127.0.0.1 localhost #IPv4 localhost
 ::1 localhost #IPv6 localhost
+104.46.56.16 api.besmart-home.com
 #
 # AD SERVERS START HERE
 #
