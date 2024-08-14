@@ -1,1 +1,24 @@
+27.0.0.1 localhost #IPv4 localhost
+::1 localhost #IPv6 localhost
 
+#
+# AD SERVERS START HERE
+#
+nrdp.nccp.netflix.com
+mobile.pipe.aria.microsoft.com
+region1.app-measurement.com
+sdkconfig.ad.intl.xiaomi.com
+s.youtube.com
+api.ad.intl.xiaomi.com
+sdk.fra-01.braze.eu
+snipersex.com
+a.adtng.com
+h-adashx4ae.ut.taobao.com
+eu-mobile.events.data.microsoft.com
+tvx.adgrx.com
+prod-mediate-events.applovin.com
+fls-eu.amazon.it
+srtb.msn.com
+static.criteo.net
+onetag-sys.com
+tpc.googlesyndication.com
